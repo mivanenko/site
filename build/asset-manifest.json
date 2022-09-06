@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa95dbb9.css",
+    "main.js": "/static/js/main.76a0da60.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/2.jpg": "/static/media/2.474ca5724c83f878afb6.jpg",
+    "static/media/oven.jpeg": "/static/media/oven.c813672b1058996cbaad.jpeg",
+    "static/media/fridge.jpg": "/static/media/fridge.403f5dedc825a13b53ea.jpg",
+    "static/media/bathroom.jpg": "/static/media/bathroom.4ad4d857af6c38dbe571.jpg",
+    "static/media/livingroom.jpg": "/static/media/livingroom.4d2ebd05f591b19a726b.jpg",
+    "static/media/kitchen.jpg": "/static/media/kitchen.51f15198e1647eb265d6.jpg",
+    "static/media/basement.jpg": "/static/media/basement.00e193fb28d646e9d9f8.jpg",
+    "static/media/1.jpg": "/static/media/1.78cd7d31d41f6cb45a2e.jpg",
+    "static/media/bed.jpg": "/static/media/bed.92ff8de5ba8b598e0fa7.jpg",
+    "static/media/Cleaning TI-1-2.png": "/static/media/Cleaning TI-1-2.fd3ac6e32e7c83e3c411.png",
+    "index.html": "/index.html",
+    "main.fa95dbb9.css.map": "/static/css/main.fa95dbb9.css.map",
+    "main.76a0da60.js.map": "/static/js/main.76a0da60.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa95dbb9.css",
+    "static/js/main.76a0da60.js"
+  ]
+}
